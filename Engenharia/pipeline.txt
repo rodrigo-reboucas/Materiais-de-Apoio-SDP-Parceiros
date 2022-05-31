@@ -1,0 +1,6 @@
+conector: mysql
+database_username: aluno
+database_password: semantix
+database_name: treinamento
+database_host: database-2.cfdk1wsypvgw.us-east-1.rds.amazonaws.com
+database_port: 3306
